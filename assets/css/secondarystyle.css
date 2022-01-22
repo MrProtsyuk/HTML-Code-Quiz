@@ -1,0 +1,8 @@
+body {
+    color: black;
+}
+
+.questions {
+    justify-content: center;
+    flex-direction: column;
+}
