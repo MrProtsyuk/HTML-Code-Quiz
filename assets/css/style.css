@@ -5,7 +5,7 @@
 :root {
     --primary: rgb(18, 134, 18);
     --secondary: rgb(98, 218, 98);
-    --tertiary: rgb(211, 56, 144);
+    --tertiary: rgb(173, 222, 247);
     --white: rgb(255, 255, 255);
     font-size: 62.5%;
 }
@@ -158,7 +158,7 @@ body {
  }
 
  .answerbtn {
-     width: 50%;
+     width: 100%;
      text-align: left;
      font-size: 3.0vw;
  }
